@@ -1,0 +1,17 @@
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion_Empleados.Form1.resources
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.csproj.GenerateResource.cache
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.AssemblyInfoInputs.cache
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.AssemblyInfo.cs
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.csproj.CoreCompileInputs.cache
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\bin\Debug\net7.0-windows\Gestion Empleados.exe
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\bin\Debug\net7.0-windows\Gestion Empleados.deps.json
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\bin\Debug\net7.0-windows\Gestion Empleados.runtimeconfig.json
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\bin\Debug\net7.0-windows\Gestion Empleados.dll
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\bin\Debug\net7.0-windows\Gestion Empleados.pdb
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.dll
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\refint\Gestion Empleados.dll
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.pdb
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion Empleados.genruntimeconfig.cache
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\ref\Gestion Empleados.dll
+C:\Users\deadz\source\repos\Gestion Empleados\Gestion Empleados\obj\Debug\net7.0-windows\Gestion_Empleados.Form2.resources
